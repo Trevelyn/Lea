@@ -1,6 +1,9 @@
 @extends('layouts.default')
 
 @section('page-content')
+<?php
+dd("home test");
+?>
 
 <section class="w-full bg-cover bg-center" style="height:40rem; background-image: url(https://images.pexels.com/photos/2422293/pexels-photo-2422293.jpeg?cs=srgb&dl=pexels-jopwell-2422293.jpg&fm=jpg);">
         
